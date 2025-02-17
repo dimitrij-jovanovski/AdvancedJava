@@ -1,1 +1,1 @@
-# AdvancedJava
+# Napredno Programiranje (FINKI)
